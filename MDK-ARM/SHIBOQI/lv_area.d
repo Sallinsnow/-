@@ -1,0 +1,10 @@
+shiboqi\lv_area.o: D:\Keil\Arm\Packs\LVGL\lvgl\1.0.6\src\misc\lv_area.c
+shiboqi\lv_area.o: .\RTE\LVGL\lv_conf_cmsis.h
+shiboqi\lv_area.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+shiboqi\lv_area.o: .\RTE\_SHIBOQI\RTE_Components.h
+shiboqi\lv_area.o: .\RTE\_SHIBOQI\Pre_Include_Global.h
+shiboqi\lv_area.o: D:\Keil\Arm\Packs\LVGL\lvgl\1.0.6\src\misc\../lv_conf_internal.h
+shiboqi\lv_area.o: D:\Keil\Arm\Packs\LVGL\lvgl\1.0.6\src\misc\../lv_conf_kconfig.h
+shiboqi\lv_area.o: D:\Keil\Arm\Packs\LVGL\lvgl\1.0.6\src\misc\lv_area.h
+shiboqi\lv_area.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+shiboqi\lv_area.o: D:\Keil\Arm\Packs\LVGL\lvgl\1.0.6\src\misc\lv_math.h
